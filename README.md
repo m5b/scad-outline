@@ -5,7 +5,7 @@ A clean, minimal OpenSCAD outline sidebar for Vim.
 `scad-outline.vim` adds a right-hand outline panel that lists all `module` and `function` definitions in your `.scad` files.  
 It works without external plugins or tag generators and integrates naturally into your Vim workflow.
 
-![screenshot](screenshot.png)
+![screenshot](scad-outline.png)
 
 ---
 
@@ -23,5 +23,5 @@ It works without external plugins or tag generators and integrates naturally int
 Using [vim-plug](https://github.com/junegunn/vim-plug):
 
 ```vim
-Plug 'yourusername/scad-outline', { 'branch': 'main' }
+Plug 'm5b/scad-outline', { 'branch': 'main' }
 
