@@ -6,7 +6,7 @@ Jump to any symbol with `<Enter>`. Toggle the sidebar with `<F6>`.
 
 ## Installation
 
-Using [vim-plug](https://github.com/junegunn/vim-plug):
+Using [vim-plug](https://github.com/m5b/vim-plug):
 
 ```vim
 Plug 'm5b/scad-outline'
